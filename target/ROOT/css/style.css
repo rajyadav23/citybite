@@ -1,0 +1,64 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #6f42c1 !important;
+    font-size: 1.8rem;
+}
+
+.btn-green {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: white;
+}
+.btn-green:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.btn-purple {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+    color: white;
+}
+.btn-purple:hover {
+    background-color: #5a32a3;
+    border-color: #4e2b8c;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hero {
+    background: linear-gradient(135deg, #6f42c1 0%, #28a745 100%);
+    color: white;
+    padding: 80px 0;
+    border-radius: 0 0 50% 50% / 40px;
+    text-align: center;
+}
+
+.food-card {
+    transition: transform 0.2s;
+}
+.food-card:hover {
+    transform: translateY(-5px);
+}
+
+.badge-citybite {
+    background-color: #6f42c1;
+    color: white;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}

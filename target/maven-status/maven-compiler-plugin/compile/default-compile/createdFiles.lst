@@ -1,0 +1,15 @@
+com\foodapp\model\Order.class
+com\foodapp\dao\DBConnection.class
+com\foodapp\dao\FoodItemDAO.class
+com\foodapp\servlet\LoginServlet.class
+com\foodapp\servlet\OrderServlet.class
+com\foodapp\dao\OrderDAO.class
+com\foodapp\model\User.class
+com\foodapp\servlet\MenuServlet.class
+com\foodapp\model\CartItem.class
+com\foodapp\model\FoodItem.class
+com\foodapp\servlet\CartServlet.class
+com\foodapp\dao\UserDAO.class
+com\foodapp\servlet\AdminServlet.class
+com\foodapp\servlet\LogoutServlet.class
+com\foodapp\servlet\RegisterServlet.class
